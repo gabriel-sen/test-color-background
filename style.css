@@ -1,0 +1,14 @@
+body
+{
+	background-image: url(img/Tank-Girl-Logo.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
+p
+{
+	font-size: 1.4em;
+	font-family: Impact;
+	color: teal;
+}
