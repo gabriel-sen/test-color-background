@@ -1,13 +1,11 @@
-body
-{
+body {
 	background-image: url(img/Tank-Girl-Logo.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-position: fixed;
 }
 
-p
-{
+.body_paragraphe--fontstyle {  /*N'oublie pas le BEM*/
 	font-size: 1.4em;
 	font-family: Impact;
 	color: teal;
